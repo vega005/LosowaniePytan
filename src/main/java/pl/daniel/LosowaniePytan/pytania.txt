@@ -1,0 +1,111 @@
+1.Omów prawa Kirchoffa
+2.Porównaj diody – krzemowa, Schotky’ego, Zenera
+3.Tranzystory – ich rodzaje i działanie
+4.Wyjaśnij pojęcie algorytm. Podaj i omów cechy poprawnego algorytmu.
+5.Wymień i scharakteryzuj sposoby zapisu algorytmów.
+6.Wymień i omów typy  danych w językach programowania.
+8.Wymień systemy liczbowe i omów jeden z wymienionych systemów.
+9.Wymień dynamiczne struktury danych, omów szczegółowo jedną z nich.
+10.Wymień algorytmy sortowania. Omów szczegółowo wybrany algorytm.
+11.Wyjaśnij pojęcie złożoności algorytmów. Wymień popularne metody ich szacowania. Podaj najczęściej spotykane złożoności.
+12.Z czego wynika górna częstotliwość zegarowa mikroprocesorów?
+13.Zapisy stało i zmiennoprzecinkowe liczb binarnych.
+17.Omów problematykę synchronizacji procesów  na podstawie problemu problem producent-konsument.
+18.Omów problematykę zakleszczeń na podstawie problemu problem pięciu filozofów.
+19.Omów przyczyny powstawania zjawiska szamotania stron i jakie są możliwości zapobiegania temu zjawisku.
+20.Omów organizacje systemu plikowego  w systemie operacyjnym Windows.
+22.Omów organizacje systemu plikowego  w systemie operacyjnym DOS.
+23.Omów podstawowe metody zarządzania pamięcią operacyjna takie jak: stronicowanie, segmentacja, segmentacja ze stronicowaniem
+25.W jakich warstwach ISO/OSI pracują hub, repeater, bridge, przełącznik, router i gateway?
+26.Z czym kojarzą Ci się terminy MAC, CSMA/CD, ARP?
+28.Rodzaje mediów transmisji danych w sieciach komputerowych.
+29.Omówić wady i zalety sieci komputerowych: zróżnicowanie oprogramowania i sprzętu.
+31.Proszę zdefiniować pojęcie: informacji i wiedza oraz podać, jakie ma znaczenie wiedza w modelowaniu inteligencji?
+32.Proszę zdefiniować pojęcie inteligencji oraz sztucznej inteligencji oraz podać, jakimi cechami powinny się charakteryzować?
+35.Jakiej podstawowej zdolności oczekujemy od systemów inteligencji obliczeniowej i sztucznej inteligencji?
+37.Co to jest kros-walidacja i kiedy ją stosujemy oraz jakie korzyści z niej wynikają?
+38.Proszę zdefiniować pojęcia: dane, informacja, wiedza?
+39.Co to jest system zarządzania bazą danych?
+40.Jakie obiekty występują w bazach danych i do czego służą?
+42.Jakie występują powiązania danych w bazach danych oraz proszę je wymienić i scharakteryzować?
+44.Omów czym jest inżynieria wsteczna, podaj przykłady praktycznego wykorzystania jej technik i metod.
+45.Omów, na podstawie wybranego przykładu, wadliwie działający system informatyczny, który doprowadził do poważnych strat finansowych, społecznych lub też  do poważnej utraty zdrowia, a nawet życia.
+46.Scharakteryzuj ogólnie układy kombinacyjne i sekwencyjne oraz przedstaw sposoby ich projektowania.
+47.Wyjaśnij pojęcia: problem decyzyjny, model decyzyjny, decyzja dopuszczalna, decyzja optymalna.
+51.Omów problem znajdowania najkrótszych ścieżek w grafie. Przedstaw algorytm Dijkstry.
+53.Do czego służą wskaźniki i w jakich językach programowania występują?
+54.Jakie wartości mogą przechowywać wskaźniki?
+55.Jakimi sposobami możemy przekazywać tablice do funkcji?
+56.Co to jest funkcja?
+57.Co to są argumenty funkcji i co to jest wartość zwracana?
+58.Jaka jest różnica pomiędzy zmienną lokalną, a globalną?
+59.Co to są tablice, jak je deklarujemy oraz jak przypisujemy im wartość?
+60.Co to są pętle, w jakich językach występują i jakie są między mini różnice?
+61.Co to jest klasa i obiekt w programowaniu obiektowym ?
+62.Do czego służą konstruktory i destruktory?
+63.Na czym polega dziedziczenie klas w językach zorientowanych obiektowo?
+64.Na czym polega dynamiczny przydział pamięci ?
+65.Na czym polega polimorfizm (wielopostaciowość)?
+66.Sterowanie dostępem do metod i zmiennych (modyfikatory dostępu).
+67.Przeciążanie metod i konstruktorów.
+68.Opisz zasadę dostępu do mediów w Ethernecie.
+69.Przedstaw i omów budowę ramki ethernetowej.
+70.Przedstaw różnice między Ethernetem, Fast Ethernetem, Gigabit Ethernetem.
+71.Omówić wady sieci komputerowych: możliwość przechwytywania danych.
+72.Czym jest suma kontrolna w protokole komunikacyjnym?
+73.Problematyka ataków na sieci komputerowe: przepełnienie stosu, ataki na odmowę usług DoS.
+74.Przedstaw i omów model warstwowy ISO/OSI.
+75.Omów różnice pomiędzy adresacją klasową, a bezklasową dla IPv4.
+76.Omów zastosowanie mechanizmu VLSM, podaj przykład zastosowania.
+77.Wskaż przykłady publicznych i prywatnych adresów IPv4 oraz wyjaśnij zalety stosowania adresów prywatnych.
+78.Co to jest sieć komputerowa, wymień elementy sieci?
+79.Omów zasadę działania switcha, routera.
+80.Omów sieci LAN, WAN, MAN.
+82.Opisz protokoły TCP i UDP.
+83.Opisz protokół IP.
+84.Rozwiń pojęcia: adres logiczny, maska, gateway, broadcast.
+85.Co to jest adres fizyczny ?
+86.Co to za polecenia - ping, tracert, nslookup, netstat?
+87.Co to jest routing statyczny ?
+88.Co to jest routing dynamiczny ?
+89.Co to jest klasa abstrakcyjna i interfejs w programowaniu obiektowym ?
+90.Omów obsługę wyjątków w programowaniu obiektowym.
+91.Co to jest ASP.NET ?
+92.Omów model ASP.NET MVC.
+93.Co to jest HTTP Request w aplikacji ASP.NET MVC ?
+94.Jak jest podstawowa różnica pomiędzy technologią PHP i Java Script?
+95.Czym są arkusze stylów CSS i gdzie je używamy?
+96.Jak uruchomić skrypt PHP na lokalnym komputerze?
+97.Czym są front-end i back-end w aplikacji webowej ?
+98.Na czym polegają usługi REST ?
+99.Do czego służy protokół SOAP ?
+100.Podaj przykłady zastosowania chmury obliczeniowej.
+101.Podaj znaczenia terminów: hermetyzacja, dziedziczenie i polimorfizm w kontekście programowania orientowanego obiektowo.
+102.Omów architekturę aplikacji sieciowej bazującej na protokołach transportowych połączeniowych i bezpołączeniowych.
+103.Przedstaw strukturę aplikacji sieciowej lub bazodanowej.
+104.Pojęcie klucza obcego w bazach danych.
+105.Operacje unii, przekroju i różnicy w relacyjnych bazach danych.
+106.Pojęcie klucza w relacyjnej bazie danych (klucz główny, potencjalny, złożony).
+107.Składnia polecenia SELECT.
+108.Typy danych w systemie baz danych. Przykłady.
+109.Więzy integralnościowe w systemie zarządzania bazą danych.
+110.Grupowanie w poleceniu SELECT (GROUP BY).
+111.Funkcje agregujące w języku SQL.
+112.Poziome łączenie tabel w zapytaniach SQL (JOIN).
+113.Architektura klient-serwer w bazach danych.
+114.Cechy transakcji w systemach baz danych (atomowość, spójność).
+115.Omówić architekturę MVC internetowej aplikacji bazodanowej.
+116.Przedstawić rolę języka JavaScript w walidacji danych.
+117.Przekazywanie danych między przeglądarką a serwerem w protokole HTTP.
+118.W jaki sposób przedstawić relacje typu jeden-do-wielu i wiele-do-wielu w relacyjnej bazie danych ?
+119.Scharakteryzować jedno z typowych  narzędzi zespołowego wytwarzania oprogramowania.
+120.Omów pojęcie podatności związane z bezpieczeństwem systemów informatycznych.
+121.Omów metody weryfikacji zabezpieczeń systemów informatycznych.
+122.Wskaż i omów trzy atrybuty składające się na bezpieczeństwo informacji.
+123.Czym jest analiza ryzyka, omówić wybraną metodykę  analizy ryzyka oraz metody postępowania z ryzykiem..
+124.Czym jest planowanie ciągłości działania w zarządzaniu organizacją. Jakie elementy powinien zawierać.
+127.Wyjaśnij czym jest kryptologia.
+128.Omów symetryczne algorytmy szyfrowania.
+129.Omów asymetryczne algorytmy szyfrowania.
+130.Czym jest polityka bezpieczeństwa informacji. Jakie elementy powinna zawierać.
+
